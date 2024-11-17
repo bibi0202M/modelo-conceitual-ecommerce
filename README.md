@@ -10,6 +10,3 @@ Este projeto apresenta um modelo conceitual de banco de dados para um sistema de
 
 ## Esquema Conceitual
 ![Esquema Conceitual](modelo-ecommerce.png)
-
-## Como Contribuir
-Sinta-se à vontade para abrir uma issue ou enviar um pull request com sugestões de melhorias.
